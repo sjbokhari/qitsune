@@ -1,2 +1,5 @@
 qiskit==0.45.0
-qiskit[visualization]==???
+numpy==???
+cvxpy==1.5.3
+scipy==???
+qiskit-optimization== ???
