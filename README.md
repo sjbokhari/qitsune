@@ -1,2 +1,4 @@
 # qitsune
-Attempt to create Pipelines powered by Quantum Algorithms.
+Research for portfolio optimization with python for the POC for it-excelsus GmbH.
+
+

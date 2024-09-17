@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "qitsune"
+version = "0.1.0"
+description = "Research for portfolio optimization"
+authors = ["Shehryar Bokhari <shehryar@bokhari.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12,<3.15"
+yfinance = "^0.2.43"
+pyportfolioopt = "^1.5.5"
+deap = "^1.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
